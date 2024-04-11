@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...AI
 - 📫 How to reach me avinashw419@gmail.com
 - 😄 Pronouns: AVINASH
-- ⚡ Fun fact: ...
 
 <!---
 AvinashkWakode/AvinashkWakode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
